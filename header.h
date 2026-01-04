@@ -3,5 +3,6 @@
 
 int inputnum1(int b);
 int inputnum2(int b);
+void printline();
 
 #endif
