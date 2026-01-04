@@ -6,8 +6,8 @@ int inputnum1(int a){
     return a;
 }
 
-// int inputnum1(int b){
-//     printf("Enter second number: ");
-//     scanf("%d",&b);
-//     return b;
-// }
+int inputnum2(int b){
+    printf("Enter second number: ");
+    scanf("%d",&b);
+    return b;
+}
